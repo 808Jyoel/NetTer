@@ -10,6 +10,9 @@ Herramienta profesional de diagnóstico de red orientada a operación técnica r
 Este proyecto implementa un scanner de red IPv4 en C++20, diseñado con arquitectura modular y foco en mantenibilidad.  
 Está pensado para escenarios de soporte, operaciones, validación post-despliegue y revisión técnica de exposición de servicios internos.
 
+![NetTer Interfaz](interfaznetter.png)
+
+
 ## Capacidades Principales
 
 - Descubrimiento de hosts por red objetivo en formato CIDR.
