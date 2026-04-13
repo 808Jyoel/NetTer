@@ -1,5 +1,8 @@
 # Network Scanner (C++ / Windows)
 
+
+![Sodae Hero](https://prnt.sc/hnIm629Dkxka)
+
 Herramienta profesional de diagnóstico de red orientada a operación técnica real: descubrimiento de hosts, latencia ICMP, escaneo TCP con clasificación de estado por puerto y salida estructurada para automatización.
 
 ## Resumen Ejecutivo
